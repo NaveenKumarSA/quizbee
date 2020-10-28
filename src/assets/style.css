@@ -5,13 +5,14 @@ body{
   align-items: center;
 }
 .container {
-  width:95%;
+  margin-top: 6rem;
+  width:90%;
   padding:1rem; 
   background-color: rgba(24, 93, 123, 0.845);
 
 }
 #titlediv{
-  background-color: rgb(240, 233, 233);
+  background-color: rgb(186, 64, 64);
   text-align: center;
   font-size: 4rem;
   padding: 0rem;
@@ -25,6 +26,32 @@ body{
   background-color: rgb(240, 233, 233);
   color:black; 
   font-size: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: 1rem;
+
+  text-align: left;
+ 
+
+}
+
+.question{
+ 
+  font-size: large;
+  
+}
+
+button{
+   font-size: large;
+   margin-left: 5PX;
+   background-color: rgb(112, 210, 232);
+   border-radius: 9px;
+   transition-timing-function: ease-in;
+}
+.score-board{
+text-align: center;
+}
+.score {
+font-size: large;
+}
+.playBtn{
+ background-color: rgb(81, 194, 81);
 }
