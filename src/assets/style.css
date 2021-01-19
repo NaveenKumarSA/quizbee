@@ -1,0 +1,57 @@
+
+body{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  margin-top: 6rem;
+  width:90%;
+  padding:1rem; 
+  background-color: rgba(24, 93, 123, 0.845);
+
+}
+#titlediv{
+  background-color: rgb(230, 146, 146);
+  text-align: center;
+  font-size: 4rem;
+  padding: 0rem;
+  width: 100%;
+  margin: 0rem; 
+  padding-bottom: 1rem;
+  
+}
+
+.questionbox{
+  background-color: rgb(240, 233, 233);
+  color:black; 
+  font-size: 1rem;
+  padding: 1rem;
+
+  text-align: left;
+ 
+
+}
+
+.question{
+ 
+  font-size: large;
+  
+}
+
+button{
+   font-size: large;
+   margin-left: 5PX;
+   background-color: rgb(112, 210, 232);
+   border-radius: 9px;
+   transition-timing-function: ease-in;
+}
+.score-board{
+text-align: center;
+}
+.score {
+font-size: large;
+}
+.playBtn{
+ background-color: rgb(81, 194, 81);
+}
