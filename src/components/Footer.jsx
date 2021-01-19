@@ -13,6 +13,7 @@ function Footer(props) {
         <h5>Front End - React.js </h5>
 
         <h5>libraries used - Bootstrap</h5>
+        <h6>Date of Deploy : 18 January 2021 </h6>
         <div class=" center">
           <a href="https://naveenkumarsa.github.io/" class="btn btn-info">
             Visit Website
